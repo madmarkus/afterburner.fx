@@ -12,3 +12,11 @@ afterburner.fx provides:
 The use of afterburner.fx is demonstrated in [https://github.com/AdamBien/followme.fx](https://github.com/AdamBien/followme.fx)
 
 See also: [http://afterburner.adam-bien.com](http://afterburner.adam-bien.com)
+
+
+This fork
+---------
+
+This fork is intended to enable afterburner.fx to be used with Java 7.
+
+As this can be done by some changes to the maven pom.xml, the framework is not affected ;-)
